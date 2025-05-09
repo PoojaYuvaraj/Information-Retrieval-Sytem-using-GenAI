@@ -1,7 +1,9 @@
 python-dotenv
 google-generativeai
 langchain
-PyPDF
+PyPDF2
 faiss-cpu
 streamlit
 -e .
+openai
+bitsandbytes
